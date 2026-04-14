@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Santa Barbara in West Coast. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Santa Barbara, California, US",
+  "export_job_id": "4fddda54-3702-4305-8e9b-4f933d2c11b5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 670107,
+  "location_name": "Santa Barbara",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-santa-barbara-california-us-sample-670107",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/670107/beamstation_670107_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 11.76,
+  "sample_records": 8,
+  "sample_sha256": "2fbabf7896cacd04503524a92b08cfdfb33e3e399da1c7fe946c51e05806711b",
+  "sample_size_bytes": 33477,
+  "total_records": 68,
+  "updated_at": "2026-03-31T17:10:05.118427+00:00"
+}
