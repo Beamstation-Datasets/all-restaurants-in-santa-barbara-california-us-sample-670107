@@ -9,9 +9,9 @@
 | Dataset ID | `670107` |
 | Location | Santa Barbara |
 | Category | Restaurants |
-| Full dataset size | 68 records |
-| Free sample size | 8 records (11.76%) |
-| Last export | 2026-03-31T17:10:05.118427+00:00 |
+| Full dataset size | 85 records |
+| Free sample size | 8 records (9.41%) |
+| Last export | 2026-04-14T18:08:27.594344+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-barbara-california-us-sample-670107/releases/download/sample-latest/beamstation_670107_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
