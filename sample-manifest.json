@@ -1,12 +1,12 @@
 {
-  "export_job_id": "39e4f0f9-0efd-49fd-b9f3-2750c4360789",
+  "export_job_id": "423f7cf5-830c-4a47-8f72-bc248f79e2d4",
   "id_short": 670107,
-  "published_at": "2026-04-17T19:51:44Z",
+  "published_at": "2026-04-22T07:51:56Z",
   "repo_name": "all-restaurants-in-santa-barbara-california-us-sample-670107",
   "sample_asset_name": "beamstation_670107_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/670107/beamstation_670107_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 8,
-  "sample_sha256": "2fbabf7896cacd04503524a92b08cfdfb33e3e399da1c7fe946c51e05806711b",
-  "sample_size_bytes": 33477,
-  "total_records": 85
+  "sample_sha256": "529be876d4c6689d7f84ef39a2278ea53a6d1f32ee8d079d90954e86f51a846e",
+  "sample_size_bytes": 43444,
+  "total_records": 80
 }
