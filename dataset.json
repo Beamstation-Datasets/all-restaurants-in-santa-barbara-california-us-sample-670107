@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Local dining market data for Santa Barbara in West Coast. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Santa Barbara, California, US",
-  "export_job_id": "423f7cf5-830c-4a47-8f72-bc248f79e2d4",
+  "export_job_id": "e787ce06-b27d-41e7-b682-617143c50c50",
   "github_org": "Beamstation-Datasets",
   "id_short": 670107,
   "location_name": "Santa Barbara",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-santa-barbara-california-us-sample-670107",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/670107/beamstation_670107_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 8,
-  "sample_sha256": "529be876d4c6689d7f84ef39a2278ea53a6d1f32ee8d079d90954e86f51a846e",
-  "sample_size_bytes": 43444,
-  "total_records": 80,
-  "updated_at": "2026-04-21T19:55:23.815501+00:00"
+  "sample_records": 6,
+  "sample_sha256": "52afb3dcdaa7d32e5312cb1e572c92146c6f3b762f53a06cf5e9d8700153c577",
+  "sample_size_bytes": 37798,
+  "total_records": 60,
+  "updated_at": "2026-04-28T21:29:47.820590+00:00"
 }
